@@ -1,13 +1,13 @@
 # hcktbrfst19
 
-Dis is my hcktbrfst19 reprository.
+This is my hcktbrfst19 reprository.
 
 For the commitments for the hcktbrfst 2k19.
 
-Feel free to make any khanges to dis repro.
+Feel free to make any changes to this repo.
 
-As logn as the khanges are likely to be really solving any errors, please opn a pull request.
+As long as the changes are likely to be really solving any errors, please open a pull request.
 
-Those pull requesds making sence, will be merged!
+Those pull request making sence, will be merged!
 
 Happy hacking! :)
