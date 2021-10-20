@@ -1,6 +1,6 @@
 # hcktbrfst21
 
-This is my hcktbrfst21 reprository.
+This is my hcktbrfst21 reprository, updated from the 2k19 version.
 
 For the commitments for the hcktbrfst 2k21.
 
