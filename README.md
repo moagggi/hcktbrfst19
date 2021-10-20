@@ -10,4 +10,4 @@ As long as the changes are likely to be really solving any errors, please open a
 
 Those pull request making sence, will be merged!
 
-Happy hacking! :)
+Happy hacking this year to you all! :)
