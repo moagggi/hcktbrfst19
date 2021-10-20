@@ -11,3 +11,5 @@ As long as the changes are likely to be really solving any errors, please open a
 Those pull request making sence, will be merged!
 
 Happy hacking this year to you all! :)
+
+Will the first 50k get the appreciation of DO!
