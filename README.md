@@ -12,4 +12,4 @@ Those pull request making sence, will be merged!
 
 Happy hacking this year to you all! :)
 
-Will the first 50k get the appreciation of DO!
+Will the first 50k get the appreciation of DO, AW, I & DS!
