@@ -1,6 +1,6 @@
 # hcktbrfst23
 
-This is my hcktbrfst23 reprository, updated for the 2k23 version.
+This is my hcktbrfst21 reprository, updated for the 2k23 version.
 
 For the commitments for the hcktbrfst 2k23.
 
