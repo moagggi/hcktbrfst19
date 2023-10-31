@@ -2,7 +2,7 @@
 
 This is my hcktbrfst23 reprository, updated for the 2k23 version.
 
-For the commitments for the hcktbrfst 2k22.
+For the commitments for the hcktbrfst 2k23.
 
 Feel free to make any changes to this open source repo under a soon to be announced license.
 
