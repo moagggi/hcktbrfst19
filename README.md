@@ -12,4 +12,4 @@ Those pull request making sence, will be merged!
 
 Happy hacking this year to you all! :)
 
-Will the first 40k get the appreciation of DO, AW, DC, NV, RA & DT!
+Will the first 40k get the appreciation of DO, IC, AW, AM, RM, OS & DT!
